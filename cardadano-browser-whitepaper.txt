@@ -1,0 +1,91 @@
+Cardano Browser Whitepaper
+
+1. Introduction
+
+The Cardano Browser is an innovative, open-source web browser designed to enhance the user experience by integrating Cardano blockchain functionality into everyday web interactions. This browser will allow users to earn ADA (Cardano’s native cryptocurrency) by viewing ads, block unwanted advertisements, and seamlessly interact with decentralized applications (dApps) on the Cardano network. With built-in wallet capabilities and a focus on user privacy and security, the Cardano Browser aims to be the portal through which users can explore the full potential of the Cardano ecosystem.
+
+2. Vision
+
+The Cardano Browser is envisioned as a revolutionary tool that will provide a secure, rewarding, and user-friendly way for users to navigate the web while integrating them with the growing Cardano blockchain ecosystem. By offering users the flexibility to earn ADA through ad engagement or enjoy an ad-free experience, the browser will appeal to both crypto enthusiasts and mainstream users alike.
+
+The long-term vision is to establish the browser as a gateway to decentralized applications and resources on the Cardano blockchain, fostering adoption and growth of the network.
+
+3. Key Features
+
+3.1. Built-in Cardano Wallet
+
+The browser will include a native, fully integrated Cardano wallet that allows users to easily send, receive, and store ADA. The wallet will also support interactions with Cardano-based dApps, enabling users to participate in decentralized finance (DeFi) activities directly from their browser.
+
+3.2. Ad Blocking and ADA Rewards
+
+Users will have two options when it comes to ads:
+
+	•	Ad Blocker: The Cardano Browser will include a robust ad blocker, allowing users to enjoy a distraction-free, privacy-focused browsing experience.
+	•	ADA Rewards for Watching Ads: Alternatively, users can opt to watch ads and earn ADA rewards. These rewards will be transparently managed and credited directly to the user’s built-in Cardano wallet.
+
+3.3. Open-Source and Community-Driven
+
+Released under the MIT License, the Cardano Browser is fully open-source, encouraging collaboration and contribution from developers, security experts, and the broader Cardano community. Transparency will be a cornerstone of the project, with all code being open for review and contributions welcomed.
+
+3.4. Privacy and Security
+
+By disallowing third-party plugins, the browser minimizes the risk of security vulnerabilities. Additionally, all security features and updates will be publicly available, ensuring transparency and user confidence. The browser will prioritize privacy, meaning that users’ data will not be shared with advertisers or any third parties without their consent.
+
+3.5. Seamless Interaction with the Cardano Ecosystem
+
+The Cardano Browser will serve as a portal to the Cardano ecosystem. Through its integrated wallet and support for dApps, users will be able to participate in staking, governance, decentralized exchanges, and other blockchain-based activities directly from the browser.
+
+4. Project Goals
+
+The Cardano Browser has three primary goals:
+
+	•	Enhanced Accessibility to Cardano: Provide an easy-to-use, intuitive gateway for interacting with the Cardano blockchain, encouraging more users to engage with the ecosystem.
+	•	User Empowerment: Allow users to choose between a fully ad-free experience or earning ADA by viewing ads, giving them control over their browsing experience.
+	•	Open, Transparent Development: Foster a community-driven project where developers, designers, and users can contribute to its growth and innovation.
+
+5. Technology Stack
+
+	•	Chromium: The Cardano Browser will be built on Chromium, leveraging its open-source, flexible, and widely supported framework. This ensures a stable, fast, and feature-rich browsing experience.
+	•	Cardano Node: A full Cardano node will be integrated for blockchain interactions, ensuring fast and reliable access to the network.
+	•	Cardano DB Sync: For real-time blockchain data, the browser will use Cardano DB Sync to fetch information on staking, transactions, and other on-chain metrics.
+	•	PostgreSQL: The project will use PostgreSQL to manage on-chain data efficiently and support the ADA rewards and wallet functions.
+
+6. Dependencies
+
+While the Cardano Browser will utilize essential libraries and frameworks typical for software applications, it will remain independent of specific companies or individual contributors. This ensures full transparency and independence from centralized entities. The open-source nature of the project allows any developer to contribute or review the code.
+
+7. Development Approach
+
+I am the sole developer leading this project, a decision made to ensure agility in decision-making and development. This independent approach allows me to streamline the development process, make quick adjustments, and maintain focus on the browser’s core features without delays. However, I have strong connections with experienced UX designers who can provide expert input to ensure the browser is intuitive and user-friendly. I also maintain relationships with other developers, allowing me to seek technical advice when needed.
+
+8. License
+
+The Cardano Browser will be released under the MIT License, a permissive open-source license that allows anyone to use, modify, and distribute the code. This choice of license encourages community collaboration and ensures that the project’s contributions are recognized. The MIT License fosters an open, community-driven development environment that aligns with the values of transparency and decentralization within the Cardano ecosystem.
+
+9. Roadmap
+
+Phase 1: Research and Planning (Q1 2024)
+
+	•	Finalize project scope and gather requirements for the browser and its wallet integration.
+	•	Evaluate and select the best libraries and frameworks for the project.
+
+Phase 2: Initial Development (Q2 2024)
+
+	•	Develop the core features, including wallet integration, ADA rewards for ads, and ad-blocking capabilities.
+	•	Release an alpha version for early feedback and testing.
+
+Phase 3: Public Beta (Q3 2024)
+
+	•	Launch a public beta version of the browser.
+	•	Focus on user feedback and refining features.
+	•	Ensure seamless integration with Cardano dApps and DeFi platforms.
+
+Phase 4: Official Release (Q4 2024)
+
+	•	Roll out the official release of the Cardano Browser.
+	•	Expand marketing efforts to increase adoption.
+	•	Continue improving the browser based on community input.
+
+10. Conclusion
+
+The Cardano Browser represents a unique opportunity to bridge the gap between traditional web browsing and the emerging blockchain ecosystem. By integrating a built-in wallet, providing ADA rewards, and maintaining a commitment to security and privacy, the Cardano Browser aims to bring blockchain technology to mainstream users in a way that is accessible, secure, and rewarding. Through its open-source model and alignment with the principles of decentralization, the browser will contribute to the growth of the Cardano community and the adoption of blockchain technology on a broader scale.
